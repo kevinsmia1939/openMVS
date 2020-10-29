@@ -33,8 +33,8 @@ Photogrammetry reconstruction with these steps:
     15. Fuse disparity-maps            DensifyPointCloud
 
 positional arguments:
-  input_dir                 the directory wich contains the pictures set.
-  output_dir                the directory wich will contain the resulting files.
+  input_dir                 the directory which contains the pictures set.
+  output_dir                the directory which will contain the resulting files.
 
 optional arguments:
   -h, --help                show this help message and exit
